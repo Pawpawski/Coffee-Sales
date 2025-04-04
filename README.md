@@ -1,6 +1,6 @@
 ## Coffee-Sales
-##Project Title: Coffee Sales Dashboard Using Excel
-#Project Description:
+## Project Title: Coffee Sales Dashboard Using Excel
+# Project Description:
 
 Developed a comprehensive Coffee Sales Dashboard using Microsoft Excel to streamline data visualization and sales analysis for our coffee retail business. The dashboard integrates multiple data sources to provide real-time insights into sales performance, inventory levels, and customer preferences.
 
